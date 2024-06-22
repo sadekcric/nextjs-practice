@@ -1,0 +1,27 @@
+[
+  {
+      "title": "Learn JavaScript",
+      "description": "A comprehensive guide to learning JavaScript programming language.",
+      "creator": "John Doe"
+  },
+  {
+      "title": "CSS for Beginners",
+      "description": "An introductory course on CSS and how to style web pages.",
+      "creator": "Jane Smith"
+  },
+  {
+      "title": "Understanding HTML",
+      "description": "Basics of HTML and how to structure web pages using it.",
+      "creator": "Alice Johnson"
+  },
+  {
+      "title": "Responsive Web Design",
+      "description": "Learn how to create responsive web designs that work on all devices.",
+      "creator": "Bob Brown"
+  },
+  {
+      "title": "Python Programming",
+      "description": "A complete course on Python programming from beginner to advanced levels.",
+      "creator": "Emily Davis"
+  }
+]
